@@ -1,0 +1,45 @@
+dream pokemon team:
+
+grass - chicorita
+water - greninja
+flying - swellow 
+electric - 
+fire - charmander
+
+Next Steps:
+
+- Replace all NPCs with LLMs 
+- Utilize F.R.O.M standard for multagent development and universe growth 
+- VR $1 competition, doubling every time 
+
+$1
+$2
+$4
+$8
+$16
+$32
+$64
+$128
+$256
+$512
+$1,024
+$2,048
+$4,096
+$8,192
+$16,384
+$32,768
+$65,536
+$131,072
+$262,144
+$524,288
+$1,048,576
+$2,097,152
+$4,194,304
+$8,388,608
+$16,777,216
+$33,554,432
+$67,108,864
+$134,217,728
+$268,435,456
+$536,870,912
+$1,073,741,824

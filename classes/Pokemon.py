@@ -6,14 +6,17 @@ class Pokemon:
 		self.level = level
 		self.moves = []
 
-	def stats(self, hp, attack, defence, speed):
+	def base_stats(self, hp, attack, defence, speed):
 		self.hp = hp
 		self.attack = attack
 		self.defence = defence
 		self.speed = speed
 
-	def get_experience(self):
-		pass
+	def gain_experience(self, xp):
+		self.xp = xp
+
+	def level_up(self):
+		self.level += 1
 
 	def evolve(self):
 		pass
