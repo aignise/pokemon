@@ -12,5 +12,8 @@ class Pokemon:
 		self.defence = defence
 		self.speed = speed
 
+	def get_experience(self):
+		pass
+
 	def evolve(self):
 		pass

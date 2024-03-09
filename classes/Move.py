@@ -9,4 +9,5 @@ class Moves:
 		self.effetc = effect
 
 
-	def power(self)
+	def power(self):
+		pass
