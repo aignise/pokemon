@@ -6,7 +6,7 @@ class Moves:
 		self.power = power
 		self.accuracy = accuracy
 		self.pp = pp
-		self.effetc = effect
+		self.effect = effect
 
 
 	def power(self):
