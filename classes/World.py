@@ -27,7 +27,7 @@ class Building(World):
 	def __init__(self, building_type):
 		self.building_type = building_type
 
-	def pokemon_centre(self, town):
+	def pokemon_center(self, town):
 		self.town = town
 
 	def pokemart(self, town):

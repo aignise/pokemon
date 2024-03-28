@@ -18,7 +18,11 @@ class Player:
 	def money(self, amount):
 		self.amount = amount
 
-count = 1
-for i in range(31):
-	print(count)
-	count*=2
+"""
+players = []
+for i in range(0,5):
+	player = Player(i,['squirtle','charmander','pikachu'])
+	players.append(player)
+
+print(players)
+"""
